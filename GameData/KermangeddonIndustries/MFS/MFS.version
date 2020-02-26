@@ -1,0 +1,11 @@
+{
+  "NAME": "MFS",
+  "URL": "https://github.com/riocrokite/MobileFrameSystem/master/MFS.version",
+  "DOWNLOAD": "https://github.com/riocrokite/MobileFrameSystem/releases",
+  "VERSION": "0.3.3",
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 0
+  }
+}
