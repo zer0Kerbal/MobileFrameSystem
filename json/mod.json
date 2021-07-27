@@ -1,6 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "MobileFrameSystem",
-  "message": "0.3.3.1",
-  "color": "orange"
+ "schemaVersion": 1,
+ "label": "Mobile Frame System",
+ "labelColor": "darkgreen",
+ "message": "0.3.3.1",
+ "color": "orange",
+ "style": "plastic"
 }
